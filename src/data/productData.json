@@ -1,0 +1,203 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Headphones",
+      "price": 1999,
+      "category": "Electronics",
+      "image": "/src/assets/photo-1505740420928-5e560c06d30e.jpg",
+      "status": true,
+      "rating": { "rate": 4.7, "count": 154 }
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 2499,
+      "category": "Electronics",
+      "image": "/src/assets/photo-1523275335684-37898b6baf30.jpg",
+      "status": true,
+      "rating": { "rate": 3.5, "count": 89 }
+    },
+    {
+      "id": 3,
+      "title": "Running Shoes",
+      "price": 2999,
+      "category": "Footwear",
+      "image": "/src/assets/photo-1542291026-7eec264c27ff.jpg",
+      "status": true,
+      "rating": { "rate": 4.2, "count": 276 }
+    },
+    {
+      "id": 4,
+      "title": "Travel Backpack",
+      "price": 1499,
+      "category": "Bags",
+      "image": "/src/assets/photo-1553062407-98eeb64c6a62.jpg",
+      "status": true,
+      "rating": { "rate": 2.8, "count": 47 }
+    },
+    {
+      "id": 5,
+      "title": "Premium Sunglasses",
+      "price": 1299,
+      "category": "Accessories",
+      "image": "/src/assets/photo-1511499767150-a48a237f0083.jpg",
+      "status": true,
+      "rating": { "rate": 4.9, "count": 632 }
+    },
+    {
+      "id": 6,
+      "title": "Classic Wrist Watch",
+      "price": 3499,
+      "category": "Accessories",
+      "image": "/src/assets/photo-1524805444758-089113d48a6d.jpg",
+      "status": true,
+      "rating": { "rate": 3.9, "count": 118 }
+    },
+    {
+      "id": 7,
+      "title": "Casual Cotton T-Shirt",
+      "price": 799,
+      "category": "Clothing",
+      "image": "/src/assets/photo-1521572163474-6864f9cf17ab.jpg",
+      "status": true,
+      "rating": { "rate": 4.4, "count": 205 }
+    },
+    {
+      "id": 8,
+      "title": "Leather Wallet",
+      "price": 999,
+      "category": "Accessories",
+      "image": "/src/assets/photo-1627123424574-724758594e93.jpg",
+      "status": false,
+      "rating": { "rate": 2.6, "count": 39 }
+    },
+    {
+      "id": 9,
+      "title": "Portable Bluetooth Speaker",
+      "price": 1799,
+      "category": "Electronics",
+      "image": "/src/assets/photo-1608043152269-423dbba4e7e1.jpg",
+      "status": true,
+      "rating": { "rate": 4.1, "count": 321 }
+    },
+    {
+      "id": 10,
+      "title": "Ceramic Coffee Mug",
+      "price": 499,
+      "category": "Home",
+      "image": "/src/assets/photo-1514228742587-6b1558fcca3d.jpg",
+      "status": true,
+      "rating": { "rate": 3.7, "count": 142 }
+    },
+    {
+      "id": 11,
+      "title": "Mechanical Gaming Keyboard",
+      "price": 3299,
+      "category": "Electronics",
+      "image": "/src/assets/photo-1587829741301-dc798b83add3.jpg",
+      "status": true,
+      "rating": { "rate": 4.8, "count": 517 }
+    },
+    {
+      "id": 12,
+      "title": "Minimal Desk Lamp",
+      "price": 1199,
+      "category": "Home",
+      "image": "/src/assets/photo-1507473885765-e6ed057f782c.jpg",
+      "status": false,
+      "rating": { "rate": 3.2, "count": 74 }
+    },
+    {
+      "id": 13,
+      "title": "Wireless Gaming Mouse",
+      "price": 1499,
+      "category": "Electronics",
+      "image": "/src/assets/wireless-gaming-mouse.png",
+      "status": true,
+      "rating": { "rate": 4.6, "count": 245 }
+    },
+    {
+      "id": 14,
+      "title": "Laptop Backpack",
+      "price": 1899,
+      "category": "Bags",
+      "image": "/src/assets/photo-1553062407-98eeb64c6a62.jpg",
+      "status": true,
+      "rating": { "rate": 4.3, "count": 167 }
+    },
+    {
+      "id": 15,
+      "title": "Running Sports T-Shirt",
+      "price": 899,
+      "category": "Clothing",
+      "image": "/src/assets/running-sports-t-shirt.png",
+      "status": true,
+      "rating": { "rate": 4.1, "count": 98 }
+    },
+    {
+      "id": 16,
+      "title": "Classic Leather Belt",
+      "price": 699,
+      "category": "Accessories",
+      "image": "/src/assets/photo-1553062407-98eeb64c6a62.jpg",
+      "status": true,
+      "rating": { "rate": 3.8, "count": 76 }
+    },
+    {
+      "id": 17,
+      "title": "Wireless Earbuds",
+      "price": 1799,
+      "category": "Electronics",
+      "image": "/src/assets/wireless-earbuds.png",
+      "status": true,
+      "rating": { "rate": 4.5, "count": 384 }
+    },
+    {
+      "id": 18,
+      "title": "Ceramic Flower Vase",
+      "price": 799,
+      "category": "Home",
+      "image": "/src/assets/ceramic-flower-vase.png",
+      "status": true,
+      "rating": { "rate": 4.0, "count": 64 }
+    },
+    {
+      "id": 19,
+      "title": "Men's Casual Sneakers",
+      "price": 2199,
+      "category": "Footwear",
+      "image": "/src/assets/photo-1542291026-7eec264c27ff.jpg",
+      "status": true,
+      "rating": { "rate": 4.4, "count": 213 }
+    },
+    {
+      "id": 20,
+      "title": "Polarized Aviator Sunglasses",
+      "price": 1599,
+      "category": "Accessories",
+      "image": "/src/assets/photo-1511499767150-a48a237f0083.jpg",
+      "status": true,
+      "rating": { "rate": 4.7, "count": 302 }
+    },
+    {
+      "id": 21,
+      "title": "Stainless Steel Water Bottle",
+      "price": 599,
+      "category": "Home",
+      "image": "/src/assets/stainless-steel-water-bottle.png",
+      "status": true,
+      "rating": { "rate": 4.2, "count": 156 }
+    },
+    {
+      "id": 22,
+      "title": "Leather Card Holder",
+      "price": 499,
+      "category": "Accessories",
+      "image": "/src/assets/photo-1627123424574-724758594e93.jpg",
+      "status": false,
+      "rating": { "rate": 3.6, "count": 42 }
+    }
+  ]
+}
