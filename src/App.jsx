@@ -6,7 +6,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Template from './components/Template'
 import './App.css'
 import Banner from './components/Banner'
-import Card from './components/card'
+import Card from './components/Card'
 import productsData from "./data/productData.json"
 import Cart from './components/Cart'
 
